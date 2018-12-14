@@ -13,17 +13,6 @@ Simple instructions:
 * pre_processing_ref.py provides utility functions for all the other files.
 * keras_rnn.py is for LSTM model using w2v representations.
 * Continue_w2v.py is for further tuning and training on a subset of elements with lower performance in the output of keras_rnn.py.
-
-
-
-Specially for CS229:
----
-*
-*
-*
-
-Specially for CS230:
----
-* 
-*
-*
+* GradientBoosting.py for XGBoost classification model.
+* SVM.py for linear SVC.
+* crate_sentence_features.py outputs sentence features for XGBoost and SVC models.
