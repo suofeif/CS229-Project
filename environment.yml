@@ -1,0 +1,14 @@
+name: preprocess
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python=3.6.7
+  - pip:
+    - jieba
+    - tensorflow
+    - gensim
+    - keras
+    - scipy
+    - sklearn
