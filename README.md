@@ -3,7 +3,7 @@ Fine-Grained Sentiment Analysis of Restaurant Customer Reviews in Chinese Langua
 =========================================
 
 * The baseline model (main_train.py, main_predict.py, model.py, data_process.py, config.py) is provided by AI Challenger official. We trained the SVC with rbf kernel. Here is the link to official site: https://github.com/AIChallenger/AI_Challenger_2018/tree/master/Baselines/sentiment_analysis2018_baseline.
-* All the other code files are produced by the teammates.
+* All the other code files are produced by the team members.
 
 Simple instructions:
 ---
